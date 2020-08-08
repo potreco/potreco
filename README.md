@@ -36,7 +36,8 @@
 ---
 
 [![Potreco's github stats](https://github-readme-stats.potreco.vercel.app/api?username=potreco&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Potreco's top Langs](https://github-readme-stats.potreco.vercel.app/api/top-langs/?username=potreco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Potreco's top Langs](https://github-readme-stats.potreco.vercel.app/api/top-langs/?username=potreco&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/potrecoo/
 [linkedin]: https://www.linkedin.com/in/patrickjeanmeurer/
