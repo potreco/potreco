@@ -56,6 +56,7 @@
 ![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)
 ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=fff)
 ![DigitalOcean](https://img.shields.io/badge/digitalocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=fff)
+![Vercel](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
 
 ### Git
 
@@ -65,9 +66,9 @@
 
 ---
 
-[![Potreco's github stats](https://github-readme-stats-7fosb8zxb-potreco.vercel.app/api?username=potreco&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Potreco's github stats](https://grsv.meurerti.com.br/api?username=potreco&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Potreco's top Langs](https://github-readme-stats-7fosb8zxb-potreco.vercel.app/api/top-langs/?username=potreco&count_private=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Potreco's top Langs](https://grsv.meurerti.com.br/api/top-langs/?username=potreco&count_private=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/patrickjeanmeurer/
 [linkedin]: https://www.linkedin.com/in/patrickjeanmeurer/
