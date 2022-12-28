@@ -66,6 +66,10 @@
 
 ---
 
+## Profile Stats
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 [![Potreco's github stats](https://grsv.meurerti.com.br/api?username=potreco&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Potreco's top Langs](https://grsv.meurerti.com.br/api/top-langs/?username=potreco&count_private=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
