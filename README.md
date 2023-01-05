@@ -12,7 +12,7 @@ Software Engineer
 
 <div align="right">
      <a href="https://github.com/potreco">
-        <img height="180em" src="https://grsv.meurerti.com.br/api/top-langs/?username=potreco&count_private=true&theme=radical&hide=html&layout=compact" alt="Linguagens mais usadas" align="right">
+        <img height="180em" src="https://grsv.meurerti.com.br/api/top-langs/?username=potreco&count_private=true&theme=radical&hide=html,lua&layout=compact" alt="Linguagens mais usadas" align="right">
     </a>
 </div>
 
@@ -95,4 +95,4 @@ I grow up in a family graduated in IT so i started my IT studies on middle schoo
 
 [![Potreco's github stats](https://grsv.meurerti.com.br/api?username=potreco&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Potreco's top Langs](https://grsv.meurerti.com.br/api/top-langs/?username=potreco&count_private=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Potreco's top Langs](https://grsv.meurerti.com.br/api/top-langs/?username=potreco&count_private=true&theme=dracula&layout=compact&hide=html,lua)](https://github.com/anuraghazra/github-readme-stats)
